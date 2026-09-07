@@ -23,9 +23,9 @@
 bavish@dev:~$ cat about.md
 ```
 
-> Learning software engineering from zero, on a self-imposed 10-month clock to land
+> Learning software engineering from zero, on a self-imposed clock to land
 > a job or internship. No shortcuts, no tutorial-hell — just real projects, real
-> problems, and a lot of terminal windows open at once.
+> problems, and a lot of hard work and dedication 24/7.
 
 ```bash
 bavish@dev:~$ ls ./skills
