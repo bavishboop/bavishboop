@@ -11,7 +11,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=%24+whoami;self-taught+software+engineer;Java+%2B+React+%2B+DSA;building+in+public+%7C%7C+shipping+daily" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=39FF14&style=flat-square&label=terminal+visits)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=bavishboop&color=39FF14&style=flat-square&label=terminal+visits)](https://github.com/bavishboop)
 ![Status](https://img.shields.io/badge/status-in__training-39FF14?style=flat-square&logo=gnu-bash&logoColor=black)
 ![Focus](https://img.shields.io/badge/focus-backend__%2B__DSA-000000?style=flat-square&logo=java&logoColor=39FF14)
 
@@ -55,7 +55,7 @@ bavish@dev:~$ ./fetch_stats.sh
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="Streak Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bavishboop&theme=dark&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="Streak Stats" height="165"/>
 </div>
 
 ```bash
