@@ -69,7 +69,7 @@ bavish@dev:~$ cat contact.txt
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/bavish-kumar-2569663aa/)
 [![Twitter/X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=39FF14)](https://x.com/YOUR_USERNAME)
 
 </div>
