@@ -38,7 +38,6 @@ bavish@dev:~$ ls ./skills
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=39FF14)
 ![LeetCode](https://img.shields.io/badge/-DSA-000000?style=for-the-badge&logo=leetcode&logoColor=39FF14)
-![Linux](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.redandblack.com%2Fopinion%2Fopinion-make-the-switch-to-a-linux-operating-system%2Farticle_0b8bb324-5425-11e9-9d96-ab61c820e566.html&ved=0CBYQjRxqFwoTCNDMp43x25YDFQAAAAAdAAAAABAF&opi=89978449)
 </div>
 
 ```bash
