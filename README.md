@@ -1,81 +1,88 @@
-<div align="center">
+<!-- Replace every YOUR_USERNAME with your GitHub username. -->
 
-```
-██████╗  █████╗ ██╗   ██╗██╗███████╗██╗  ██╗
-██╔══██╗██╔══██╗██║   ██║██║██╔════╝██║  ██║
-██████╔╝███████║██║   ██║██║███████╗███████║
-██╔══██╗██╔══██║╚██╗ ██╔╝██║╚════██║██╔══██║
-██████╔╝██║  ██║ ╚████╔╝ ██║███████║██║  ██║
-╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝
-```
+<h1 align="center">Hey there, I'm Bavish 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=%24+whoami;self-taught+software+engineer;Java+%2B+React+%2B+DSA;building+in+public+%7C%7C+shipping+daily" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+Developer;Problem+Solver+%7C+DSA+Enthusiast;Linux+%26+Git+Power+User;Building+clean%2C+scalable+backends" alt="Typing SVG" />
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=bavishboop&color=39FF14&style=flat-square&label=terminal+visits)](https://github.com/bavishboop)
-![Status](https://img.shields.io/badge/status-in__training-39FF14?style=flat-square&logo=gnu-bash&logoColor=black)
-![Focus](https://img.shields.io/badge/focus-backend__%2B__DSA-000000?style=flat-square&logo=java&logoColor=39FF14)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=blue" alt="followers" />
+</p>
 
 ---
 
-```bash
-bavish@dev:~$ cat about.md
-```
+## 🚀 About Me
 
-> Learning software engineering from zero, on a self-imposed clock to land
-> a job or internship. No shortcuts, no tutorial-hell — just real projects, real
-> problems, and a lot of hard work and dedication 24/7.
+- ☕ Backend-focused developer building with **Java** and **Spring Boot**
+- 🧠 Sharpening problem-solving daily through **Data Structures & Algorithms**
+- 🐧 Comfortable living in the **Linux** terminal
+- 🌱 Currently learning: **REST APIs, JPA/Hibernate, Spring Security, and System Design basics**
+- 💼 **Open to internships and entry-level SDE opportunities**
+- 📫 Reach me: [your.email@example.com](mailto:your.email@example.com)
 
-```bash
-bavish@dev:~$ ls ./skills
-```
+---
 
-<div align="center">
+## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=39FF14)
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=39FF14)
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=39FF14)
-![LeetCode](https://img.shields.io/badge/-DSA-000000?style=for-the-badge&logo=leetcode&logoColor=39FF14)
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,linux,git,github,html,css&perline=7" alt="Skills" />
+</p>
 
-```bash
-bavish@dev:~$ cat roadmap.log
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p>
 
-- [x] `boot sequence` — fundamentals, DSA basics
-- [ ] `build phase` — backend (Java) + frontend (React) projects
-- [ ] `open_source --contribute` — prepping for GSoC 2027
-- [ ] `deploy` — job / internship applications (India)
+---
 
-```bash
-bavish@dev:~$ ./fetch_stats.sh
-```
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bavishboop&theme=dark&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="Streak Stats" height="165"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
-```bash
-bavish@dev:~$ cat contact.txt
-```
+---
 
-<div align="center">
+## 📌 Featured Projects
 
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/bavishboop)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/bavish-kumar-2569663aa/)
-[![Twitter/X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=39FF14)](https://x.com/YOUR_USERNAME)
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🔗 [**Project One**](https://github.com/YOUR_USERNAME/project-one) | REST API with authentication, CRUD and validation | Java, Spring Boot |
+| 🔗 [**Project Two**](https://github.com/YOUR_USERNAME/project-two) | Responsive personal portfolio website | HTML, CSS |
+| 🔗 [**DSA Practice**](https://github.com/YOUR_USERNAME/dsa-in-java) | Solved problems with notes and complexity analysis | Java, DSA |
 
-</div>
+---
 
-<div align="center">
+## 🧩 DSA Journey
 
-```
-$ echo "thanks for stopping by"
-> thanks for stopping by
-$ exit
-```
+- 📚 Practicing arrays, strings, recursion, linked lists, trees, graphs and dynamic programming in **Java**
+- 🔁 Writing clean solutions with time and space complexity notes
+- 📂 Solutions: [dsa-in-java](https://github.com/YOUR_USERNAME/dsa-in-java)
 
-</div>
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/YOUR_LEETCODE/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+</p>
+
+<p align="center"><i>"First, solve the problem. Then, write the code."</i></p>
