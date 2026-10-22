@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=blue" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=bavishboop&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/bavishboop?label=Followers&style=flat&color=blue" alt="followers" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 - 🐧 Comfortable living in the **Linux** terminal
 - 🌱 Currently learning: **REST APIs, JPA/Hibernate, Spring Security, and System Design basics**
 - 💼 **Open to internships and entry-level SDE opportunities**
-- 📫 Reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 Reach me: [your.email@example.com](mailto:bavish2984@gmail.com)
 
 ---
 
@@ -45,12 +45,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bavishboop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bavishboop&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=bavishboop&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -59,9 +59,9 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🔗 [**Project One**](https://github.com/YOUR_USERNAME/project-one) | REST API with authentication, CRUD and validation | Java, Spring Boot |
-| 🔗 [**Project Two**](https://github.com/YOUR_USERNAME/project-two) | Responsive personal portfolio website | HTML, CSS |
-| 🔗 [**DSA Practice**](https://github.com/YOUR_USERNAME/dsa-in-java) | Solved problems with notes and complexity analysis | Java, DSA |
+| 🔗 [**Project One**](https://github.com/bavishboop/project-one) | REST API with authentication, CRUD and validation | Java, Spring Boot |
+| 🔗 [**Project Two**](https://github.com/bavishboop/project-two) | Responsive personal portfolio website | HTML, CSS |
+| 🔗 [**DSA Practice**](https://github.com/bavishboop/dsa-in-java) | Solved problems with notes and complexity analysis | Java, DSA |
 
 ---
 
@@ -69,7 +69,7 @@
 
 - 📚 Practicing arrays, strings, recursion, linked lists, trees, graphs and dynamic programming in **Java**
 - 🔁 Writing clean solutions with time and space complexity notes
-- 📂 Solutions: [dsa-in-java](https://github.com/YOUR_USERNAME/dsa-in-java)
+- 📂 Solutions: [dsa-in-java](https://github.com/bavishboop/dsa-in-java)
 
 ---
 
