@@ -20,7 +20,7 @@
 - 🐧 Comfortable living in the **Linux** terminal
 - 🌱 Currently learning: **REST APIs, JPA/Hibernate, Spring Security, and System Design basics**
 - 💼 **Open to internships and entry-level SDE opportunities**
-- 📫 Reach me: [your.email@example.com](mailto:bavish2984@gmail.com)
+- 📫 Reach me: [bavish2984@gmail.com](mailto:bavish2984@gmail.com)
 
 ---
 
