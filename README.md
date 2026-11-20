@@ -12,14 +12,14 @@
 
 ```java
 public class Bavish {
-    String role     = "Backend Developer (in progress)";
-    String[] stack  = {"Java", "Spring Boot", "Linux", "Git", "HTML", "CSS"};
+    String role     = "Full Stack WEB Developer (in progress)";
+    String[] stack  = {"Javascript", "React", "Linux", "Git", "HTML", "CSS"};
     String practice = "Data Structures & Algorithms";
     boolean openToWork = true;
 }
 ```
 
-- ☕ I build backend projects with **Java** and **Spring Boot**
+- ☕ I build full stack projects with MERN Stack.
 - 🧠 I practice **DSA** regularly to improve problem solving
 - 🐧 I work comfortably in **Linux** and manage code with **Git**
 - 🎨 I build simple, clean pages with **HTML** and **CSS**
@@ -35,8 +35,6 @@ public class Bavish {
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
