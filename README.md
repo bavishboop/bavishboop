@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Hi%2C%20I'm%20Bavish&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20DSA%20%7C%20Linux&descSize=20&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Hi%2C%20I'm%20Bavish&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20DSA%20%7C%20Linux&descSize=20&descAlignY=58" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+backends+with+Java+%26+Spring+Boot;Solving+problems+with+DSA;Living+in+the+Linux+terminal;Open+to+internships+%26+entry-level+roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Full Stack Apps+with+MERN+%26+Stack;Solving+problems+with+DSA;Living+in+the+Linux+terminal;Open+to+internships+%26+entry-level+roles" />
 
 </div>
 
@@ -31,7 +31,7 @@ public class Bavish {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,linux,git,github,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=javascript,MERN,linux,git,github,html,css&theme=dark" />
 
 <br/><br/>
 
